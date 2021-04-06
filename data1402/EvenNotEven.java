@@ -19,3 +19,4 @@ public class EvenNotEven {
         System.out.println("Колличество нечетных чисел массива = " + bufNotEven);
     }
 }
+
